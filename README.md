@@ -1,13 +1,10 @@
 <p align="center">
-  <a href="https://www.npmjs.com/package/water.css"><img align="center" src="https://img.shields.io/npm/v/water.css.svg" alt="NPM page"></a>
-  <a href="https://www.producthunt.com/posts/water-css"><img align="center" src="https://img.shields.io/badge/on-product%20hunt-blue.svg" alt="On Product Hunt"></a>
-  <a href="https://github.com/kognise/water.css/pulls"><img align="center" src="https://img.shields.io/github/contributors-anon/kognise/water.css" alt="Contributors"></a>
   <a href="https://github.com/kognise/water.css/blob/master/LICENSE.md"><img align="center" src="https://img.shields.io/github/license/kognise/water.css.svg" alt="MIT license"></a>
 </p>
 
 <br>
 
-<h1 align="center">Water.css</h1>
+<h1 align="center">Mizu.css</h1>
 <p align="center">🌊 A drop-in collection of CSS styles to make simple websites just a little nicer</p>
 
 [![Water.css](assets/logo.svg)](https://watercss.kognise.dev/)
@@ -21,13 +18,13 @@
 - Good browser support (works on my old kindle's browser :P)
 - Tiny size
 - Beautiful
-- No classes
+- No classes & Minimum class
 
 ## Why?
 
-I commonly make quick demo pages or websites with simple content. For these, I don't want to spend time styling them but don't like the ugliness of the default styles.
+I often create demo pages or websites with simple content. In these cases I don't want to spend a lot of time styling, but I don't like the ugliness of the default styles.
 
-Water.css is a CSS framework that doesn't require any classes. You just include it in your `<head>` and forget about it, while it silently makes everything nicer.
+Mizu.css is a CSS framework that by default requires no classes. Just include it in your `<head>` and it will silently make everything beautiful.
 
 ## Who?
 
