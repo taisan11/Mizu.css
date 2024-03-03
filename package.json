@@ -1,14 +1,11 @@
 {
-  "name": "water.css",
-  "version": "2.1.1",
+  "name": "mizu.css",
+  "version": "2.1.2",
   "description": "A drop-in collection of CSS styles to make simple websites just a little nicer",
   "main": "out/water.css",
   "scripts": {
     "build": "gulp build",
     "dev": "gulp watch",
-    "lint:js": "eslint bookmarklet/original.js docs/script.js docs/index.html gulpfile.js",
-    "lint:css": "stylelint src/**/*.css docs/style.css",
-    "lint": "yarn lint:js --fix && yarn lint:css --fix",
     "accessibility": "yarn build && node accessibility.js",
     "validate": "yarn lint:js && yarn lint:css && yarn accessibility"
   },
@@ -25,7 +22,7 @@
     "simple",
     "minimal"
   ],
-  "author": "Kognise",
+  "author": ["Kognise","taisan11"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kognise/water.css/issues"
