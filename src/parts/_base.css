@@ -1,4 +1,4 @@
-html {
+:root {
   scrollbar-color: var(--scrollbar-thumb) var(--background-body);
   scrollbar-width: thin;
 }
